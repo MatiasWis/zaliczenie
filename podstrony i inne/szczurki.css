@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+    text-align: center;
+}
+
+#szczur{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: red;
+}
+
